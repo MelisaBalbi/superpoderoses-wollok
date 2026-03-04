@@ -8,7 +8,7 @@ Este proyecto simula un conjunto de personajes que poseen distintos superpoderes
 
 El objetivo principal fue diseñar un modelo orientado a objetos donde los poderes no sean simples atributos, sino comportamientos con responsabilidad propia.
 
-##🧠 Conceptos aplicados
+## 🧠 Conceptos aplicados
 
 Programación Orientada a Objetos (POO)
 
